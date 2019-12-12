@@ -6,8 +6,8 @@ Game::Game() : m_running(false)
 {
 	//m_player = new Player();
 	m_player = new Dot(true);
-	m_otherPlayer = new Dot(false);
-	//
+	//m_otherPlayer = new Dot(false);
+
 	std::string m_title = "Title";
 
 	m_client = new Client("127.0.0.1", 1111, m_otherPlayer); //Create client to connect to server 127.0.0.1 [localhost] on port 1111
