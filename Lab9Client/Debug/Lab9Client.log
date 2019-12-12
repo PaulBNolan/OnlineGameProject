@@ -1,0 +1,9 @@
+﻿  Client.cpp
+  ClientIni.cpp
+  Packet.cpp
+  PacketManager.cpp
+  PacketStructs.cpp
+  SendGetMethods.cpp
+  Source.cpp
+  Generating Code...
+  Lab9Client.vcxproj -> C:\Users\halo2\Desktop\OnlineGameProject\Lab9Client\Debug\Lab9Client.exe

@@ -1,0 +1,14 @@
+﻿  Client.cpp
+  ClientIni.cpp
+  Packet.cpp
+  PacketManager.cpp
+  PacketStructs.cpp
+  SendGetMethods.cpp
+  Dot.cpp
+  Game.cpp
+  LTexture.cpp
+  main.cpp
+  Player.cpp
+  Generating Code...
+C:\Users\halo2\Desktop\OnlineGameProject\FSM-SDL - Copy\Dot.cpp(167,15): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+  FSM-SDL.vcxproj -> C:\Users\halo2\Desktop\OnlineGameProject\FSM-SDL - Copy\Debug\FSM-SDL.exe
